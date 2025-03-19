@@ -124,7 +124,7 @@ To better visualize the differences in sales distribution among cities, we creat
 
 The visualization revealed that **Long Beach** has the **smallest standard deviation** among all the cities examined. This indicates that Long Beach enjoys a relatively even distribution of sales across its different products, suggesting that no single product dominates the market to a significant extent.
 
-   <img src='visit_frequency.png'>
+
 ### Finding the City with Highest Customer Visit Frequency
 
 To determine which city exhibits the highest customer visit frequency, we first calculated the total number of times a customer visited within the specified period. The results display how many times a customer likely to visit for every day. Then, we calculated an average of these calculations for each city, and the result helps us quantify how likely a customer from a city visit for every day. 
