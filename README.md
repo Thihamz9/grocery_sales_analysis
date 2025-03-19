@@ -24,7 +24,7 @@ During the analysis phase, the following metrics or key performance indicators w
 
 First, we access the sales data from the designated period for the United States region by querying the Green Mall's SQL database. Next, we check the integrity and structure of the dataset to determine whether it's ready for analysis or requires additional processing. We then use Python to conduct a detailed examination of the data, adding necessary metrics to enhance our analysis. Finally, we utilize Tableau to create an interactive dashboard that delivers extensive visualizations of the data.
 
-SQL queries for fetching sales data from the database can be found here.
+SQL queries for fetching sales data from the database can be found [here](https://github.com/Thihamz9/grocery_sales_analysis/blob/4bb18382c5b0a2e4c4202164851e1fbc04b9fa8e/join_sales.sql).
 
 Python notebook for processing the data can be found here.
 
