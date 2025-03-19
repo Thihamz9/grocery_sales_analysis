@@ -4,7 +4,6 @@ SELECT
 	s.customer_id,
 	s.quantity,
 	s.discount,
-	s.total_price,
 	s.sales_date,
 	p.product_name,
 	p.price,
@@ -34,5 +33,6 @@ JOIN
 	cities ci ON cu.city_id = ci.city_id
 JOIN
 	countries co ON ci.country_id = co.country_id
-WHERE s.sales_date >= '2017-01-01' AND s.sales_date < '2019-01-01'
+WHERE s.sales_date >= '2017-12-31' AND s.sales_date <= '2018-05-09'
 ORDER BY s.sales_id ASC;
+

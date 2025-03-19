@@ -40,7 +40,7 @@ SELECT * FROM countries;
 CREATE TABLE customers (
 	customer_id INT NOT NULL,
 	first_name VARCHAR(255),
-	middle_initial VARCHAR(255),
+	middle_initial CHAR(1),
 	last_name VARCHAR(255),
 	city_id INT,
 	address VARCHAR(255),
@@ -57,7 +57,7 @@ SELECT * FROM customers;
 CREATE TABLE employees (
 	employee_id INT NOT NULL,
 	first_name VARCHAR(255),
-	middle_initial VARCHAR(255),
+	middle_initial CHAR(1),
 	last_name VARCHAR(255),
 	birth_date DATE,
 	gender CHAR(1),

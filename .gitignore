@@ -1,2 +1,5 @@
 /dataset
 join_sales.csv
+join_sales_edited.csv
+.ipynb_checkpoints
+.obsidian
