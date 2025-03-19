@@ -54,7 +54,7 @@ The fields are selected in accordance with the objectives as follows:
 ## Executive Summary
 
 
-![[green_mall_executive_summary.png]]
+![[green_mall_executive_summary.png]](green_mall_executive_summary.png)
 
 Over the course of the specified period, Green Mall's supermarket operations across the United States achieved substantial sales figures, totaling **$4.26 billion**. The **peak sales day** occurred on **February 24**, marking the highest single-day sales, while the **lowest sales** were recorded on **April 25**. This period also saw significant **customer engagement**, with a total of **6.64 million customer walk-ins** and **86.32 million products sold** across all stores.
 
