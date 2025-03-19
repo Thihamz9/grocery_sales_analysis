@@ -26,7 +26,7 @@ First, we access the sales data from the designated period for the United States
 
 SQL queries for fetching sales data from the database can be found [here](https://github.com/Thihamz9/grocery_sales_analysis/blob/4bb18382c5b0a2e4c4202164851e1fbc04b9fa8e/join_sales.sql).
 
-Python notebook for processing the data can be found here.
+Python notebook for processing the data can be found [here](data_preparation_notebook.ipynb).
 
 Interactive Tableau dashboard from the analysis can be found [here](https://public.tableau.com/shared/PXQCF4YHQ?:display_count=n&:origin=viz_share_link).
 
