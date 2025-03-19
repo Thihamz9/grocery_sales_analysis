@@ -76,37 +76,36 @@ This ratio measures the disparity in sales distribution within each month, where
 
 The following visualization showcased each day's sales as circles on the plot, with their vertical position indicating the sales volume and their color indicating the month. Notably, a red circle represented the highest sales day, and a green circle represented the lowest, corresponding to February and April, respectively. 
 
-![[total_sales_bubbles.png]]
+![[total_sales_bubbles.png]](total_sales_bubbles.png)
 
 To apply the Volatility Ratio defined earlier, we first calculated the daily average sales for each month. Then, we counted the number of days each month with sales above and below the monthly average respectively. 
 #### January
 
 The average sales for January were $33.25 million. During this month, there were 18 days with sales falling below this average and 13 days above it. This resulted in a ratio of 1.4, showing that for approximately every day of above-average sales, there were 1.4 days of below-average sales.
-![[January_sales_bubbles.png]]
+![[January_sales_bubbles.png]](January_sales_bubbles.png)
 #### February
 
 The month showed a small contrast with 16 days below the average and 12 days above, resulting in a ratio of 1.3. To translate, for approximately every day of above-average sales, there were 1.3 days of below-average sales.
 
-![[february_sales_bubbles.png]]
+![[february_sales_bubbles.png]](february_sales_bubbles.png)
 
 
 #### March
 
 March demonstrated greater stability with 16 days below the average and 15 days above, translating to a ratio of 1.1. This suggests that for every day of sales above average, there are about 1.1 days of sales below average, marking March as the most stable month in terms of sales fluctuations.
 
-![[march_sales_bubbles.png]]
+![[march_sales_bubbles.png]](march_sales_bubbles.png)
     
 #### April
 
 There were 18 days with sales below the average and 12 above, leading to a ratio of 1.5. This suggests that for every day of sales above average, there are about 1.5 days of sales below average, marking March as the highest month in terms of sales fluctuations.
 
-![[april_sales_bubbles.png]]
+![[april_sales_bubbles.png]](april_sales_bubbles.png)
 #### May
 
 The data available for May was limited, making it challenging to calculate the ratio for the entire month. However, based on the data we had for the first eight days, May showed a balanced profile, with an equal number of days above and below the average—four each. This resulted in a ratio of 1.0, indicating a perfectly balanced sales performance for the period covered.
 
-![[may_sales_bubbles.png]]
-
+![[may_sales_bubbles.png]](may_sales_bubbles.png)
 
 
 Based on the analysis, **April emerges as the month with highest sales volatility**.
@@ -121,7 +120,7 @@ A smaller standard deviation indicates that the sales figures for most products 
 To better visualize the differences in sales distribution among cities, we created a bar plot representing the standard deviations for each city, arranged from smallest to biggest. 
 
 
-![[sales_variation.png]]
+![[sales_variation.png]](sales_variation.png)
 
 The visualization revealed that **Long Beach** has the **smallest standard deviation** among all the cities examined. This indicates that Long Beach enjoys a relatively even distribution of sales across its different products, suggesting that no single product dominates the market to a significant extent.
 
@@ -138,7 +137,7 @@ $$ \text{Average Visit Frequency} = \frac{\text{Total Visit Frequency of All the
 
 We visualized the results in a plot that ranks cities by their average customer visit frequency.
 
-![[visit_frequency.png]]
+![[visit_frequency.png]](visit_frequency.png)
 
 
 The visualization revealed that **Fort Wayne** has the highest average customer visit frequency at **0.5300**, indicating that on average, a customer in Fort Wayne is likely to visit Green Mall once every two days. While this frequency is the highest, it's important to note that it is only marginally higher than frequencies observed in other cities.
